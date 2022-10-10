@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Max Beckers, Solution Architect at [PAYONE](https://github.com/PAYONE-GmbH) a [Worldline](https://github.com/worldline) company.
 
-<!--
-**maxbeckers/maxbeckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me
+- [@maxbbeckers on Twitter](https://twitter.com/maxbbeckers)
+- [maximilianbeckers on LinkedIn](www.linkedin.com/in/maximilianbeckers)
+- [Max_Beckers on XING](https://www.xing.com/profile/Max_Beckers)
+- [max.beckers on facebook](https://www.facebook.com/max.beckers)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about
+- php / symfony (Certified Developer)
+- java / spring boot
+- kubernetes & helm
+- software architecture

@@ -24,7 +24,7 @@ Passionate about building scalable, well-architected software solutions and shar
 ## 📝 Knowledge Sharing
 
 ### Recent Blog Posts
-- [YAML is a Weird Beast](https://blog.worldline.tech/2024/11/25/yaml-is-a-weird-beast.html) *(Nov 2025)*
+- [YAML is a Weird Beast](https://blog.worldline.tech/2025/11/25/yaml-is-a-weird-beast.html) *(Nov 2025)*
 - [Software Patterns - From Textbook To Reality](https://blog.worldline.tech/2024/12/10/software-patterns-from-textbook-to-reality.html) *(Dec 2024)*
 - [Understanding the potential of Modulith architecture](https://blog.worldline.tech/2024/01/23/modulith.html) *(Jan 2024)*
 - [Spring Boot 3 & GraalVM](https://blog.worldline.tech/2023/06/06/spring_boot_3_and_graalvm.html) *(Jun 2023)*

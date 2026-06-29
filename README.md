@@ -32,6 +32,7 @@ Passionate about building scalable, well-architected software solutions and shar
 - [API first - the new way of software development](https://blog.worldline.tech/2022/11/30/api-first.html) *(Nov 2022)*
 
 ### Speaking Engagements
+- 🎤 [**Symfony Online 2026**](https://live.symfony.com/2026-online-june/) - Event Streaming with Symfony Messenger - [Slides](https://speakerdeck.com/maxbeckers/event-streaming-architecture-with-symfony-messenger)
 - 🎤 [**Symfony Live Berlin 2026**](https://live.symfony.com/2026-berlin/schedule/event-streaming-architecture-with-symfony-messenger) - Event Streaming Architecture with Symfony Messenger - [Slides](https://speakerdeck.com/maxbeckers/event-streaming-architecture-with-symfony-messenger)
 - 🎤 [**Symfony Online 2024**](https://live.symfony.com/2024-online-june/schedule/practical-insight-into-modulithic-architecture) - Practical insight into modulithic architecture
 - 🎤 [**Symfony Live Berlin 2023**](https://live.symfony.com/2023-berlin/schedule/bessere-software-dank-api-first) - Bessere Software dank API first

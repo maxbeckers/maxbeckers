@@ -24,6 +24,7 @@ Passionate about building scalable, well-architected software solutions and shar
 ## 📝 Knowledge Sharing
 
 ### Recent Blog Posts
+- [Building robust APIs - lessons learned from the payment world](https://blog.worldline.tech/2026/11/17/robust-apis.html) *(Nov 2026)*
 - [YAML is a Weird Beast](https://blog.worldline.tech/2025/11/25/yaml-is-a-weird-beast.html) *(Nov 2025)*
 - [Modularer Monolith mit SpringBoot & Maven - JAVAPRO](https://javapro.io/de/modularer-monolith-mit-springboot-maven/) *(Feb 2025)*
 - [Software Patterns - From Textbook To Reality](https://blog.worldline.tech/2024/12/10/software-patterns-from-textbook-to-reality.html) *(Dec 2024)*
